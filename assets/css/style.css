@@ -1,0 +1,43 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #fff;
+}
+
+.bg-color {
+  background-color: #e83e8c;
+  background-repeat: no-repeat;
+}
+
+/*barra de navegacion*/
+.img--nav {
+  height: 53px;
+}
+/*imagenes de comida y link*/
+
+
+.titulo-h1 {
+  color: #707070;
+  font-size: 60px;
+}
+/*seccion de  icons font awesome*/
+.icons-section {
+  background-color: #17A2B8;
+
+}
+.icons-seccion h2{
+ font-size: 40px;
+}
+.icons-section i{
+  margin: 0 5rem;
+
+}
+
+/*footer*/
+.img--foot {
+  height: 100.45px;
+}
+
+.titulo-h2 {
+  font-size: 40px;
+
+}
